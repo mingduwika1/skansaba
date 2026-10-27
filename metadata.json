@@ -1,0 +1,6 @@
+{
+  "name": "admin-guru-skansaba",
+  "description": "Membantu membuatkan administrasi guru SMK Negeri 1 Bebandem lengkap dengan logo dan format resmi sesuai Permendikdasmen No 13/2025 & Kepmendikdasmen No 126/P/2025 (Deep Learning).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
